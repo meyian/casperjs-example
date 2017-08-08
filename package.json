@@ -1,0 +1,15 @@
+{
+  "name": "casperjs-example",
+  "version": "1.0.0",
+  "main": "casperjs_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "midifile": "^1.0.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
